@@ -1,5 +1,6 @@
 while True:
     # 1- input first number
+    # 1- input first number2
     while True:
         try:
           first_num = float(input("enter first number : "))
